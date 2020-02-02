@@ -1,0 +1,11 @@
+{
+  "name": "commerce-inventory",
+  "version": "1.0.0",
+  "description": "package for commerce inventory management",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Callistus Nkamuo",
+  "license": "MIT"
+}

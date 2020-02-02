@@ -1,0 +1,17 @@
+{
+  "name": "commerce-sales",
+  "version": "1.0.0",
+  "description": "A Sales Module for the commerce package",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Commerce",
+    "Sales",
+    "Order",
+    "Invoice"
+  ],
+  "author": "Callistus Nkamuo",
+  "license": "MIT"
+}
