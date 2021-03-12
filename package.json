@@ -12,7 +12,7 @@
     "dexie": "^2.0.4",
     "html2canvas": "^1.0.0-rc.5",
     "inversify": "^5.0.1",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.3.1",
     "material-design-icons-iconfont": "file:../netspider/node_modules/material-design-icons-iconfont",
     "print-js": "^1.0.63",
     "reflect-metadata": "^0.1.13",
